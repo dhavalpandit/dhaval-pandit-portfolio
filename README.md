@@ -19,3 +19,4 @@ Then open `http://localhost:4173`.
 - Colors and typography: CSS variables at the top of `styles.css`
 
 No build step or external JavaScript dependencies are required.
+https://dhavalpandit.github.io/dhaval-pandit-portfolio/
